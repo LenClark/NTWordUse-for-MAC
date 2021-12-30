@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="17156" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="17156"/>
+        <plugIn identifier="com.apple.WebKit2IBPlugin" version="17156"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="frmHelp">
+            <connections>
+                <outlet property="helpWindow" destination="F0z-JX-Cv5" id="m39-3q-Z95"/>
+                <outlet property="webView" destination="lf3-5L-tIx" id="m2I-Iv-iaM"/>
+                <outlet property="window" destination="F0z-JX-Cv5" id="gIp-Ho-8D9"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <window title="New Testament Word Usage - Help" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" id="F0z-JX-Cv5">
+            <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
+            <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
+            <rect key="contentRect" x="196" y="240" width="1200" height="1024"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="2560" height="1057"/>
+            <view key="contentView" id="se5-gp-TjO">
+                <rect key="frame" x="0.0" y="0.0" width="1200" height="1024"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <customView translatesAutoresizingMaskIntoConstraints="NO" id="Cdt-2W-fUc">
+                        <rect key="frame" x="0.0" y="0.0" width="1200" height="30"/>
+                        <subviews>
+                            <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="rkk-KX-PgF">
+                                <rect key="frame" x="1111" y="-3" width="75" height="32"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="MGa-hL-RkP"/>
+                                    <constraint firstAttribute="width" constant="63" id="uzi-R7-CcX"/>
+                                </constraints>
+                                <buttonCell key="cell" type="push" title="Close" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="Wa7-zP-RhM">
+                                    <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                    <font key="font" metaFont="system"/>
+                                </buttonCell>
+                                <connections>
+                                    <action selector="doCloseWindow:" target="-2" id="L3x-FJ-dGK"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="F0q-ew-CFs"/>
+                            <constraint firstItem="rkk-KX-PgF" firstAttribute="top" secondItem="Cdt-2W-fUc" secondAttribute="top" constant="5" id="Vfw-cr-30X"/>
+                            <constraint firstAttribute="trailing" secondItem="rkk-KX-PgF" secondAttribute="trailing" constant="20" symbolic="YES" id="lxa-Us-Bev"/>
+                        </constraints>
+                    </customView>
+                    <wkWebView wantsLayer="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lf3-5L-tIx">
+                        <rect key="frame" x="0.0" y="30" width="1200" height="994"/>
+                        <wkWebViewConfiguration key="configuration">
+                            <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                            <wkPreferences key="preferences"/>
+                        </wkWebViewConfiguration>
+                    </wkWebView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Cdt-2W-fUc" firstAttribute="top" secondItem="lf3-5L-tIx" secondAttribute="bottom" id="BqN-S4-B3q"/>
+                    <constraint firstItem="lf3-5L-tIx" firstAttribute="leading" secondItem="se5-gp-TjO" secondAttribute="leading" id="DFC-GV-tZ5"/>
+                    <constraint firstAttribute="trailing" secondItem="lf3-5L-tIx" secondAttribute="trailing" id="DK8-TH-Od2"/>
+                    <constraint firstItem="lf3-5L-tIx" firstAttribute="top" secondItem="se5-gp-TjO" secondAttribute="top" id="NuZ-wq-IEq"/>
+                    <constraint firstItem="Cdt-2W-fUc" firstAttribute="leading" secondItem="se5-gp-TjO" secondAttribute="leading" id="Xdj-MS-RnU"/>
+                    <constraint firstAttribute="trailing" secondItem="Cdt-2W-fUc" secondAttribute="trailing" id="u6R-hB-8ae"/>
+                    <constraint firstAttribute="bottom" secondItem="Cdt-2W-fUc" secondAttribute="bottom" id="upd-y7-yfO"/>
+                </constraints>
+            </view>
+            <connections>
+                <outlet property="delegate" destination="-2" id="0bl-1N-AYu"/>
+            </connections>
+            <point key="canvasLocation" x="-165" y="134"/>
+        </window>
+    </objects>
+</document>

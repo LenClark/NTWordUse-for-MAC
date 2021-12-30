@@ -1,0 +1,40 @@
+Transliteration for field 10 of LXX and field 6 of NT is as follows:
+
+alfa               A 
+beta               B
+gamma              G
+delta              D    
+epsilon            E   
+ zeta               Z    
+ eta                H    
+ theta              Q   
+ iota               I      
+ kappa              K  
+ lamda              L   
+ mu                 M    
+ nu                 N     
+ ksi                C      
+ omicron            O 
+ pi                 P      
+ rho                R    
+ sigma (both)       S
+ sigma final        J 
+ tau                T      
+ upsilon            U   
+ phi                F      
+ chi                X      
+ psi                Y      
+ omega              W
+ digamma	    V
+ 
+ Case *is* reflected in the case of the transliterated character
+ 
+ smooth breathing   )
+ rough breathing    (  
+ iota subscript     | 
+ acute accent       /
+ grave accent       \
+ circumflex acc.    =
+ diaeresis          : 
+ short vowel sign  ~
+ long vowel sign   -

@@ -1,0 +1,1064 @@
+A15	21	N	NS	5250	Καβσεηλ	καβσεηλ	καβσεηλ	Καβσεηλ	Kabsehl				*KABSEHL	*KABSEHL
+15	21	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	21	N	NS	5250	Εδραι	εδραι	εδραι	Εδραϊ	Edrai:				*EDRAI	*EDRAI
+15	21	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	21	N	NS	5250	Ιαγουρ	ιαγουρ	ιαγουρ	Ιαγουρ	Iagour				*IAGOUR	*IAGOUR
+15	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	22	N	NS	5250	Κινα	κινα	κινα	Κινα	Kina				*KINA	*KINA
+15	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	22	N	NS	5250	Διμωνα	διμωνα	διμωνα	Διμωνα	Dimwna				*DIMWNA	*DIMWNA
+15	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	22	N	NS	5250	Αδαδα	αδαδα	αδαδα	Αδαδα	Adada				*ADADA	*ADADA
+15	23	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	23	N	NS	5250	Κεδες	κεδες	κεδες	Κεδες	Kedej				*KEDES	*KEDES
+15	23	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	23	N	NS	5250	Ιθναζιφ	ιθναζιφ	ιθναζιφ	Ιθναζιφ	Iqnazif				*IQNAZIF	*IQNAZIF
+15	24	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	24	N	NS	5250	Τελεμ	τελεμ	τελεμ	Τελεμ	Telem				*TELEM	*TELEM
+15	24	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	24	N	NS	5250	Βαλωθ	βαλωθ	βαλωθ	Βαλωθ	Balwq				*BALWQ	*BALWQ
+15	25	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	25	N3I	NSF	13442	πόλις	πολις	πολις	πόλις	po/lij				PO/LIS	PO/LIS
+15	25	N	GS	5442	Ασερων	ασερων	ασερων	Ασερων	Aserwn				*ASERWN	*ASERWN
+15	25	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj	[			AU(/TH	OU(=TOS
+15	25	N	NS	5250	Ασωρ	ασωρ	ασωρ	Ασωρ	Aswr		]	,	*ASWR	*ASWR
+15	26	N	NS	5250	Αμαμ	αμαμ	αμαμ	Αμαμ	Amam				*AMAM	*AMAM
+15	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	26	N	NS	5250	Σαμαα	σαμαα	σαμαα	Σαμαα	Samaa				*SAMAA	*SAMAA
+15	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	26	N	NS	5250	Μωλαδα	μωλαδα	μωλαδα	Μωλαδα	Mwlada				*MWLADA	*MWLADA
+15	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	27	N	NS	5250	Ασεργαδδα	ασεργαδδα	ασεργαδδα	Ασεργαδδα	Asergadda				*ASERGADDA	*ASERGADDA
+15	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	27	N	NS	5250	Βαιθφαλεθ	βαιθφαλεθ	βαιθφαλεθ	Βαιθφαλεθ	Baiqfaleq				*BAIQFALEQ	*BAIQFALEQ
+15	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	28	N	NS	5250	Ασαρσουλα	ασαρσουλα	ασαρσουλα	Ασαρσουλα	Asarsoula				*ASARSOULA	*ASARSOULA
+15	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	28	N	NS	5250	Βηρσαβεε	βηρσαβεε	βηρσαβεε	Βηρσαβεε	Bhrsabee				*BHRSABEE	*BHRSABEE
+15	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	28	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	28	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	28	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+15	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	28	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	28	N3I	NPF	13954	ἐπαύλεις	ἐπαυλεις	επαυλεις	ἔπαυλις	e)/paulij				E)PAU/LEIS	E)/PAULIS
+15	28	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			,	AU)TW=N	AU)TO/S
+15	29	N	NS	5250	Βααλα	βααλα	βααλα	Βααλα	Baala				*BAALA	*BAALA
+15	29	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	29	N	NS	5250	Αυιμ	αυιμ	αυιμ	Αυιμ	Auim				*AUIM	*AUIM
+15	29	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	29	N	NS	5250	Ασεμ	ασεμ	ασεμ	Ασεμ	Asem				*ASEM	*ASEM
+15	30	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	30	N	NS	5250	Ελθωδαδ	ελθωδαδ	ελθωδαδ	Ελθωδαδ	Elqwdad				*ELQWDAD	*ELQWDAD
+15	30	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	30	N	NS	5250	Χασιλ	χασιλ	χασιλ	Χασιλ	Xasil				*XASIL	*XASIL
+15	30	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	30	N	NS	5250	Ερμα	ερμα	ερμα	Ερμα	Erma				*ERMA	*ERMA
+15	31	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	31	N	NS	5250	Σικελεγ	σικελεγ	σικελεγ	Σικελεγ	Sikeleg				*SIKELEG	*SIKELEG
+15	31	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	31	N	NS	5250	Μεδεβηνα	μεδεβηνα	μεδεβηνα	Μεδεβηνα	Medebhna				*MEDEBHNA	*MEDEBHNA
+15	31	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	31	N	NS	5250	Σανσαννα	σανσαννα	σανσαννα	Σανσαννα	Sansanna				*SANSANNA	*SANSANNA
+15	32	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	32	N	NS	5250	Λαβωθ	λαβωθ	λαβωθ	Λαβωθ	Labwq				*LABWQ	*LABWQ
+15	32	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	32	N	NS	5250	Σελειμ	σελειμ	σελειμ	Σελεϊμ	Selei:m				*SELEI+M	*SELEI+M
+15	32	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	32	N	NS	5250	Ρεμμων	ρεμμων	ρεμμων	Ρεμμων	Remmwn			,	*REMMWN	*REMMWN
+15	32	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	32	M		7	εἴκοσι	εἰκοσι	εικοσι	εἴκοσι	ei)/kosi				EI)/KOSI	EI)/KOSI
+15	32	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	32	M		7	ἐννέα	ἐννεα	εννεα	ἐννέα	e)nne/a				E)NNE/A	E)NNE/A
+15	32	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	32	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	32	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	32	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+15	33	P		8	Ἐν	ἐν	εν	ἐν	e)n				E)N	E)N
+15	33	RA	DSF	10	τῇ	τη	τη	ὁ	o(				TH=|	O(
+15	33	A1	DSF	13699	πεδινῇ	πεδινη	πεδινη	πεδινός	pedino/j			·	PEDINH=|	PEDEINO/S
+15	33	N	NS	5250	Εσθαολ	εσθαολ	εσθαολ	Εσθαολ	Esqaol				*ESQAOL	*ESQAOL
+15	33	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	33	N	NS	5250	Σαραα	σαραα	σαραα	Σαραα	Saraa				*SARAA	*SARAA
+15	33	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	33	N	NS	5250	Ασνα	ασνα	ασνα	Ασνα	Asna				*ASNA	*ASNA
+15	34	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	34	N	NS	5250	Ραμεν	ραμεν	ραμεν	Ραμεν	Ramen				*RAMEN	*RAMEN
+15	34	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	34	N	NS	5250	Ζανω	ζανω	ζανω	Ζανω	Zanw				*ZANW	*ZANW
+15	34	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	34	N	NS	5250	Αδιαθαιμ	αδιαθαιμ	αδιαθαιμ	Αδιαθαϊμ	Adiaqai:m				*ADIAQAI+M	*ADIAQAI+M
+15	34	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	34	N	NS	5250	Ηναιμ	ηναιμ	ηναιμ	Ηναϊμ	Hnai:m				*HNAI+M	*HNAI+M
+15	35	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	35	N	NS	5250	Ιεριμουθ	ιεριμουθ	ιεριμουθ	Ιεριμουθ	Ierimouq				*IERIMOUQ	*IERIMOUQ
+15	35	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	35	N	NS	5250	Οδολλαμ	οδολλαμ	οδολλαμ	Οδολλαμ	Odollam				*ODOLLAM	*ODOLLAM
+15	35	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	35	N	NS	5250	Νεμρα	νεμρα	νεμρα	Νεμρα	Nemra				*NEMRA	*NEMRA
+15	35	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	35	N	NS	5250	Σωχω	σωχω	σωχω	Σωχω	Swxw				*SWXW	*SWXW
+15	35	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	35	N	NS	5250	Αζηκα	αζηκα	αζηκα	Αζηκα	Azhka				*AZHKA	*AZHKA
+15	36	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	36	N	NS	5250	Σαργαριμ	σαργαριμ	σαργαριμ	Σαργαριμ	Sargarim				*SARGARIM	*SARGARIM
+15	36	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	36	N	NS	5250	Γαδηρα	γαδηρα	γαδηρα	Γαδηρα	Gadhra				*GADHRA	*GADHRA
+15	36	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	36	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	36	N3I	NPF	13954	ἐπαύλεις	ἐπαυλεις	επαυλεις	ἔπαυλις	e)/paulij				E)PAU/LEIS	E)/PAULIS
+15	36	RD	GSF	11	αὐτῆς	αὐτης	αυτης	αὐτός	au)to/j			,	AU)TH=S	AU)TO/S
+15	36	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	36	M		7	δέκα	δεκα	δεκα	δέκα	de/ka				DE/KA	DE/KA
+15	36	A3	NPM	9859	τέσσαρες	τεσσαρες	τεσσαρες	τέσσαρες	te/ssarej				TE/SSARES	TE/SSARES
+15	36	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	36	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	36	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	36	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+15	37	N	NS	5250	Σενναν	σενναν	σενναν	Σενναν	Sennan				*SENNAN	*SENNAN
+15	37	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	37	N	NS	5250	Αδασα	αδασα	αδασα	Αδασα	Adasa				*ADASA	*ADASA
+15	37	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	37	N	NS	5250	Μαγδαλγαδ	μαγδαλγαδ	μαγδαλγαδ	Μαγδαλγαδ	Magdalgad				*MAGDALGAD	*MAGDALGAD
+15	38	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	38	N	NS	5250	Δαλααν	δαλααν	δαλααν	Δαλααν	Dalaan				*DALAAN	*DALAAN
+15	38	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	38	N	NS	5250	Μασφα	μασφα	μασφα	Μασφα	Masfa				*MASFA	*MASFA
+15	38	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	38	N	NS	5250	Ιεχθαηλ	ιεχθαηλ	ιεχθαηλ	Ιεχθαηλ	Iexqahl				*IEXQAHL	*IEXQAHL
+15	39	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	39	N	NS	5250	Λαχις	λαχις	λαχις	Λαχις	Laxij				*LAXIS	*LAXIS
+15	39	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	39	N	NS	5250	Βαζκαθ	βαζκαθ	βαζκαθ	Βαζκαθ	Bazkaq				*BAZKAQ	*BAZKAQ
+15	39	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	39	N	NS	5250	Αγλων	αγλων	αγλων	Αγλων	Aglwn				*AGLWN	*AGLWN
+15	40	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	40	N	NS	5250	Χαββα	χαββα	χαββα	Χαββα	Xabba				*XABBA	*XABBA
+15	40	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	40	N	NS	5250	Λαμας	λαμας	λαμας	Λαμας	Lamaj				*LAMAS	*LAMAS
+15	40	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	40	N	NS	5250	Χαθλως	χαθλως	χαθλως	Χαθλως	Xaqlwj				*XAQLWS	*XAQLWS
+15	41	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	41	N	NS	5250	Γαδηρωθ	γαδηρωθ	γαδηρωθ	Γαδηρωθ	Gadhrwq				*GADHRWQ	*GADHRWQ
+15	41	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	41	N	NS	5250	Βηθδαγων	βηθδαγων	βηθδαγων	Βηθδαγων	Bhqdagwn				*BHQDAGWN	*BHQDAGWN
+15	41	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	41	N	NS	5250	Νωμα	νωμα	νωμα	Νωμα	Nwma				*NWMA	*NWMA
+15	41	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	41	N	NS	5250	Μακηδα	μακηδα	μακηδα	Μακηδα	Makhda			,	*MAKHDA	*MAKHDA
+15	41	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	41	M		7	δεκαὲξ	δεκαεξ	δεκαεξ	δεκαέξ	dekae/c				DEKAE\C	DE/KA+E(/C
+15	41	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	41	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	41	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	41	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+15	42	N	NS	5250	Λεβνα	λεβνα	λεβνα	Λεβνα	Lebna				*LEBNA	*LEBNA
+15	42	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	42	N	NS	5250	Αθερ	αθερ	αθερ	Αθερ	Aqer				*AQER	*AQER
+15	43	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	43	N	NS	5250	Ιεφθα	ιεφθα	ιεφθα	Ιεφθα	Iefqa				*IEFQA	*IEFQA
+15	43	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	43	N	NS	5250	Ασεννα	ασεννα	ασεννα	Ασεννα	Asenna				*ASENNA	*ASENNA
+15	43	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	43	N	NS	5250	Νεσιβ	νεσιβ	νεσιβ	Νεσιβ	Nesib				*NESIB	*NESIB
+15	44	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	44	N	NS	5250	Κειλα	κειλα	κειλα	Κεϊλα	Kei:la				*KEI+LA	*KEI+LA
+15	44	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	44	N	NS	5250	Αχζιβ	αχζιβ	αχζιβ	Αχζιβ	Axzib				*AXZIB	*AXZIB
+15	44	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	44	N	NS	5250	Μαρησα	μαρησα	μαρησα	Μαρησα	Marhsa				*MARHSA	*MARHSA
+15	44	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	44	N	NSF	13442	Εδωμ	εδωμ	εδωμ	Εδωμ	Edwm			,	*EDWM	*EDWM
+15	44	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	44	M		7	ἐννέα	ἐννεα	εννεα	ἐννέα	e)nne/a				E)NNE/A	E)NNE/A
+15	44	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	44	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	44	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	44	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+15	45	N	NS	5250	Ακκαρων	ακκαρων	ακκαρων	Ακκαρων	Akkarwn				*AKKARWN	*AKKARWN
+15	45	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	45	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	45	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	45	RD	GSF	11	αὐτῆς	αὐτης	αυτης	αὐτός	au)to/j				AU)TH=S	AU)TO/S
+15	45	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	45	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	45	N3I	NPF	13954	ἐπαύλεις	ἐπαυλεις	επαυλεις	ἔπαυλις	e)/paulij				E)PAU/LEIS	E)/PAULIS
+15	45	RD	GSF	11	αὐτῆς	αὐτης	αυτης	αὐτός	au)to/j			·	AU)TH=S	AU)TO/S
+15	46	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	46	P		8	ἀπὸ	ἀπο	απο	ἀπό	a)po/				A)PO\	A)PO/
+15	46	N	GS	5442	Ακκαρων	ακκαρων	ακκαρων	Ακκαρων	Akkarwn				*AKKARWN	*AKKARWN
+15	46	N	NS	5250	Ιεμναι	ιεμναι	ιεμναι	Ιεμναι	Iemnai				*IEMNAI	*IEMNAI
+15	46	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	46	A1S	NPF	13955	πᾶσαι	πασαι	πασαι	πᾶς	pa=j			,	PA=SAI	PA=S
+15	46	A1	NPF	13955	ὅσαι	ὁσαι	οσαι	ὅσος	o(/soj				O(/SAI	O(/SOS
+15	46	V9	PAI3P	894081	εἰσὶν	εἰσιν	εισιν	εἰμί	ei)mi/				EI)SI\N	EI)MI/
+15	46	D		9	πλησίον	πλησιον	πλησιον	πλησίον	plhsi/on				PLHSI/ON	PLHSI/ON
+15	46	N	GS	5442	Ασδωδ	ασδωδ	ασδωδ	Ασδωδ	Asdwd			,	*ASDWD	*ASDWD
+15	46	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	46	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	46	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	47	RD	GSF	11	αὐτῆς	αὐτης	αυτης	αὐτός	au)to/j				AU)TH=S	AU)TO/S
+15	47	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	47	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	47	N3I	NPF	13954	ἐπαύλεις	ἐπαυλεις	επαυλεις	ἔπαυλις	e)/paulij				E)PAU/LEIS	E)/PAULIS
+15	47	RD	GSF	11	αὐτῆς	αὐτης	αυτης	αὐτός	au)to/j			·	AU)TH=S	AU)TO/S
+15	47	N1A	NSF	13442	Γάζα	γαζα	γαζα	Γάζα	Ga/za				*GA/ZA	*GA/ZA
+15	47	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	47	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	47	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	47	RD	GSF	11	αὐτῆς	αὐτης	αυτης	αὐτός	au)to/j				AU)TH=S	AU)TO/S
+15	47	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	47	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	47	N3I	NPF	13954	ἐπαύλεις	ἐπαυλεις	επαυλεις	ἔπαυλις	e)/paulij				E)PAU/LEIS	E)/PAULIS
+15	47	RD	GSF	11	αὐτῆς	αὐτης	αυτης	αὐτός	au)to/j				AU)TH=S	AU)TO/S
+15	47	P		8	ἕως	ἑως	εως	ἕως	e(/wj				E(/WS	E(/WS
+15	47	RA	GSM	10	τοῦ	του	του	ὁ	o(				TOU=	O(
+15	47	N2	GSM	9538	χειμάρρου	χειμαρρου	χειμαρρου	χειμάρρους	xeima/rrouj				XEIMA/RROU	XEIMA/RROUS
+15	47	N2	GSF	13634	Αἰγύπτου	αἰγυπτου	αιγυπτου	Αἴγυπτος	Ai)/guptoj			·	*AI)GU/PTOU	*AI)/GUPTOS
+15	47	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	47	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+15	47	N1S	NSF	13442	θάλασσα	θαλασσα	θαλασσα	θάλασσα	qa/lassa				QA/LASSA	QA/LASSA
+15	47	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+15	47	A1	NSF	13443	μεγάλη	μεγαλη	μεγαλη	μέγας	me/gaj				MEGA/LH	ME/GAS
+15	47	V1	PAI3S	631937	διορίζει	διοριζει	διοριζει	διορίζω	diori/zw			.	DIORI/ZEI	O(RI/ZW          DIA
+15	48	C		4	Καὶ	και	και	καί	kai/				KAI\	KAI/
+15	48	P		8	ἐν	ἐν	εν	ἐν	e)n				E)N	E)N
+15	48	RA	DSF	10	τῇ	τη	τη	ὁ	o(				TH=|	O(
+15	48	N1	DSF	13698	ὀρεινῇ	ὀρεινη	ορεινη	ὀρεινός	o)reino/j			·	O)REINH=|	O)REINH/
+15	48	N	NS	5250	Σαφιρ	σαφιρ	σαφιρ	Σαφιρ	Safir				*SAFIR	*SAFIR
+15	48	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	48	N	NS	5250	Ιεθερ	ιεθερ	ιεθερ	Ιεθερ	Ieqer				*IEQER	*IEQER
+15	48	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	48	N	NS	5250	Σωχω	σωχω	σωχω	Σωχω	Swxw				*SWXW	*SWXW
+15	49	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	49	N	NS	5250	Ρεννα	ρεννα	ρεννα	Ρεννα	Renna				*RENNA	*RENNA
+15	49	N3I	NSF	13442	πόλις	πολις	πολις	πόλις	po/lij				PO/LIS	PO/LIS
+15	49	N3M	GPN	18242	γραμμάτων	γραμματων	γραμματων	γράμμα	gra/mma				GRAMMA/TWN	GRA/MMA
+15	49	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj	[			AU(/TH	OU(=TOS
+15	49	V9	PAI3S	631937	ἐστὶν	ἐστιν	εστιν	εἰμί	ei)mi/				E)STI\N	EI)MI/
+15	49	N	NS	5250	Δαβιρ	δαβιρ	δαβιρ	Δαβιρ	Dabir		]		*DABIR	*DABIR
+15	50	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	50	N	NS	5250	Ανωβ	ανωβ	ανωβ	Ανωβ	Anwb				*ANWB	*ANWB
+15	50	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	50	N	NS	5250	Εσθεμω	εσθεμω	εσθεμω	Εσθεμω	Esqemw				*ESQEMW	*ESQEMW
+15	50	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	50	N	NS	5250	Ανιμ	ανιμ	ανιμ	Ανιμ	Anim				*ANIM	*ANIM
+15	51	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	51	N	NS	5250	Γοσομ	γοσομ	γοσομ	Γοσομ	Gosom				*GOSOM	*GOSOM
+15	51	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	51	N	NS	5250	Χιλουων	χιλουων	χιλουων	Χιλουων	Xilouwn				*XILOUWN	*XILOUWN
+15	51	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	51	N	NS	5250	Γηλων	γηλων	γηλων	Γηλων	Ghlwn			,	*GHLWN	*GHLWN
+15	51	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	51	M		7	δέκα	δεκα	δεκα	δέκα	de/ka				DE/KA	DE/KA
+15	51	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	51	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	51	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	51	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+15	52	N	NS	5250	Ερεβ	ερεβ	ερεβ	Ερεβ	Ereb				*EREB	*EREB
+15	52	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	52	N	NS	5250	Εσαν	εσαν	εσαν	Εσαν	Esan				*ESAN	*ESAN
+15	52	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	52	N	NS	5250	Ρουμα	ρουμα	ρουμα	Ρουμα	Rouma				*ROUMA	*ROUMA
+15	53	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	53	N	NS	5250	Ιανουμ	ιανουμ	ιανουμ	Ιανουμ	Ianoum				*IANOUM	*IANOUM
+15	53	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	53	N	NS	5250	Βαιθθαπφουε	βαιθθαπφουε	βαιθθαπφουε	Βαιθθαπφουε	Baiqqapfoue				*BAIQQAPFOUE	*BAIQQAPFOUE
+15	53	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	53	N	NS	5250	Αφακα	αφακα	αφακα	Αφακα	Afaka				*AFAKA	*AFAKA
+15	54	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	54	N	NS	5250	Χαμματα	χαμματα	χαμματα	Χαμματα	Xammata				*XAMMATA	*XAMMATA
+15	54	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	54	N3I	NSF	13442	πόλις	πολις	πολις	πόλις	po/lij				PO/LIS	PO/LIS
+15	54	N	NS	5250	Αρβο	αρβο	αρβο	Αρβο	Arbo				*ARBO	*ARBO
+15	54	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj	[			AU(/TH	OU(=TOS
+15	54	V9	PAI3S	631937	ἐστὶν	ἐστιν	εστιν	εἰμί	ei)mi/				E)STI\N	EI)MI/
+15	54	N	NS	5250	Χεβρων	χεβρων	χεβρων	Χεβρων	Xebrwn		]		*XEBRWN	*XEBRWN
+15	54	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	54	N	NS	5250	Σιωρ	σιωρ	σιωρ	Σιωρ	Siwr			,	*SIWR	*SIWR
+15	54	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	54	M		7	ἐννέα	ἐννεα	εννεα	ἐννέα	e)nne/a				E)NNE/A	E)NNE/A
+15	54	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	54	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	54	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	54	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+15	55	N	NS	5250	Μαων	μαων	μαων	Μαων	Mawn				*MAWN	*MAWN
+15	55	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	55	N	NS	5250	Χερμελ	χερμελ	χερμελ	Χερμελ	Xermel				*XERMEL	*XERMEL
+15	55	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	55	N	NS	5250	Ζιφ	ζιφ	ζιφ	Ζιφ	Zif				*ZIF	*ZIF
+15	55	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	55	N	NS	5250	Ιεττα	ιεττα	ιεττα	Ιεττα	Ietta				*IETTA	*IETTA
+15	56	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	56	N	NS	5250	Ιεζραελ	ιεζραελ	ιεζραελ	Ιεζραελ	Iezrael				*IEZRAEL	*IEZRAEL
+15	56	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	56	N	NS	5250	Ιεκδααμ	ιεκδααμ	ιεκδααμ	Ιεκδααμ	Iekdaam				*IEKDAAM	*IEKDAAM
+15	56	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	56	N	NS	5250	Ζανωακιμ	ζανωακιμ	ζανωακιμ	Ζανωακιμ	Zanwakim				*ZANWAKIM	*ZANWAKIM
+15	57	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	57	N	NS	5250	Γαβαα	γαβαα	γαβαα	Γαβαα	Gabaa				*GABAA	*GABAA
+15	57	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	57	N	NS	5250	Θαμνα	θαμνα	θαμνα	Θαμνα	Qamna			,	*QAMNA	*QAMNA
+15	57	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	57	M		7	ἐννέα	ἐννεα	εννεα	ἐννέα	e)nne/a				E)NNE/A	E)NNE/A
+15	57	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	57	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	57	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	57	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+15	58	N	NS	5250	Αλουλ	αλουλ	αλουλ	Αλουλ	Aloul				*ALOUL	*ALOUL
+15	58	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	58	N	NS	5250	Βαιθσουρ	βαιθσουρ	βαιθσουρ	Βαιθσουρ	Baiqsour				*BAIQSOUR	*BAIQSOUR
+15	58	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	58	N	NS	5250	Γεδωρ	γεδωρ	γεδωρ	Γεδωρ	Gedwr				*GEDWR	*GEDWR
+15	59	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59	N	NS	5250	Μαρωθ	μαρωθ	μαρωθ	Μαρωθ	Marwq				*MARWQ	*MARWQ
+15	59	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59	N	NS	5250	Βαιθανωθ	βαιθανωθ	βαιθανωθ	Βαιθανωθ	Baiqanwq				*BAIQANWQ	*BAIQANWQ
+15	59	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59	N	NS	5250	Ελθεκεν	ελθεκεν	ελθεκεν	Ελθεκεν	Elqeken			,	*ELQEKEN	*ELQEKEN
+15	59	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	59	M		7	ἓξ	ἑξ	εξ	ἕξ	e(/c				E(\C	E(/C
+15	59	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	59	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	59	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+15	59a	N	NS	5250	Θεκω	θεκω	θεκω	Θεκω	Qekw				*QEKW	*QEKW
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Εφραθα	εφραθα	εφραθα	Εφραθα	Efraqa				*EFRAQA	*EFRAQA
+15	59a	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj	[			AU(/TH	OU(=TOS
+15	59a	V9	PAI3S	631937	ἐστὶν	ἐστιν	εστιν	εἰμί	ei)mi/				E)STI\N	EI)MI/
+15	59a	N	NS	5250	Βηθλεεμ	βηθλεεμ	βηθλεεμ	Βηθλέεμ	Bhqle/em		]		*BHQLEEM	*BHQLEEM
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Φαγωρ	φαγωρ	φαγωρ	Φαγωρ	Fagwr				*FAGWR	*FAGWR
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Αιταμ	αιταμ	αιταμ	Αιταμ	Aitam				*AITAM	*AITAM
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Κουλον	κουλον	κουλον	Κουλον	Koulon				*KOULON	*KOULON
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Ταταμι	ταταμι	ταταμι	Ταταμι	Tatami				*TATAMI	*TATAMI
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Σωρης	σωρης	σωρης	Σωρης	Swrhj				*SWRHS	*SWRHS
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Καρεμ	καρεμ	καρεμ	Καρεμ	Karem				*KAREM	*KAREM
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Γαλλιμ	γαλλιμ	γαλλιμ	Γαλλιμ	Gallim				*GALLIM	*GALLIM
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Βαιθηρ	βαιθηρ	βαιθηρ	Βαιθηρ	Baiqhr				*BAIQHR	*BAIQHR
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	N	NS	5250	Μανοχω	μανοχω	μανοχω	Μανοχω	Manoxw			,	*MANOXW	*MANOXW
+15	59a	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	59a	M		7	ἕνδεκα	ἑνδεκα	ενδεκα	ἕνδεκα	e(/ndeka				E(/NDEKA	E(/NDEKA
+15	59a	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	59a	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	59a	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	59a	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+15	60	N	NS	5250	Καριαθβααλ	καριαθβααλ	καριαθβααλ	Καριαθβααλ	Kariaqbaal				*KARIAQBAAL	*KARIAQBAAL
+15	60	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj	[			AU(/TH	OU(=TOS
+15	60	N3I	NSF	13442	πόλις	πολις	πολις	πόλις	po/lij				PO/LIS	PO/LIS
+15	60	N	GS	5442	Ιαριμ	ιαριμ	ιαριμ	Ιαριμ	Iarim		]		*IARIM	*IARIM
+15	60	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	60	N	NS	5250	Αρεββα	αρεββα	αρεββα	Αρεββα	Arebba			,	*AREBBA	*AREBBA
+15	60	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	60	M		7	δύο	δυο	δυο	δύο	du/o				DU/O	DU/O
+15	60	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	60	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	60	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	60	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+15	60	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	60	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	60	N3I	NPF	13954	ἐπαύλεις	ἐπαυλεις	επαυλεις	ἔπαυλις	e)/paulij				E)PAU/LEIS	E)/PAULIS
+15	60	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+15	61	N	NS	5250	Βαδδαργις	βαδδαργις	βαδδαργις	Βαδδαργις	Baddargij				*BADDARGIS	*BADDARGIS
+15	61	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	61	N	NS	5250	Βηθαραβα	βηθαραβα	βηθαραβα	Βηθαραβά	Bhqaraba/				*BHQARABA	*BHQARABA/
+15	61	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	61	N	NS	5250	Μαδων	μαδων	μαδων	Μαδων	Madwn				*MADWN	*MADWN
+15	61	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	61	N	NS	5250	Σοχοχα	σοχοχα	σοχοχα	Σοχοχα	Soxoxa				*SOXOXA	*SOXOXA
+15	62	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	62	N	NS	5250	Νεβσαν	νεβσαν	νεβσαν	Νεβσαν	Nebsan				*NEBSAN	*NEBSAN
+15	62	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	62	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	62	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	62	N3	GPM	10050	ἁλῶν	ἁλων	αλων	ἅλς	a(/lj				A(LW=N	A(/LS
+15	62	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	62	N	NS	5250	Ηνγαδδι	ηνγαδδι	ηνγαδδι	Ηνγαδδι	Hngaddi			,	*HNGADDI	*HNGADDI
+15	62	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+15	62	M		7	ἑπτὰ	ἑπτα	επτα	ἑπτά	e(pta/				E(PTA\	E(PTA/
+15	62	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+15	62	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+15	62	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+15	62	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+18	21	N	NS	5250	Βηθαγλα	βηθαγλα	βηθαγλα	Βηθαγλα	Bhqagla				*BHQAGLA	*BHQAGLA
+18	21	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	21	N	NS	5250	Αμεκκασις	αμεκκασις	αμεκκασις	Αμεκκασις	Amekkasij				*AMEKKASIS	*AMEKKASIS
+18	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	22	N	NS	5250	Βαιθαραβα	βαιθαραβα	βαιθαραβα	Βαιθαραβά	Baiqaraba/				*BAIQARABA	*BAIQARABA/
+18	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	22	N	NS	5250	Σεμριμ	σεμριμ	σεμριμ	Σεμριμ	Semrim				*SEMRIM	*SEMRIM
+18	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	22	N	NS	5250	Βηθηλ	βηθηλ	βηθηλ	Βηθηλ	Bhqhl				*BHQHL	*BHQHL
+18	23	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	23	N	NS	5250	Αυιμ	αυιμ	αυιμ	Αυιμ	Auim				*AUIM	*AUIM
+18	23	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	23	N	NS	5250	Αφαρ	αφαρ	αφαρ	Αφαρ	Afar				*AFAR	*AFAR
+18	23	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	23	N	NS	5250	Αφρα	αφρα	αφρα	Αφρα	Afra				*AFRA	*AFRA
+18	24	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	24	N	NS	5250	Αικαρεν	αικαρεν	αικαρεν	Αικαρεν	Aikaren				*AIKAREN	*AIKAREN
+18	24	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	24	N	NS	5250	Καφηραμμιν	καφηραμμιν	καφηραμμιν	Καφηραμμιν	Kafhrammin				*KAFHRAMMIN	*KAFHRAMMIN
+18	24	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	24	N	NSF	13442	Γαβαα	γαβαα	γαβαα	Γαβαα	Gabaa			,	*GABAA	*GABAA
+18	24	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+18	24	M		7	δώδεκα	δωδεκα	δωδεκα	δώδεκα	dw/deka				DW/DEKA	DW/DEKA
+18	24	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	24	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+18	24	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+18	24	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+18	25	N	NS	5250	Γαβαων	γαβαων	γαβαων	Γαβαων	Gabawn				*GABAWN	*GABAWN
+18	25	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	25	N	NS	5250	Ραμα	ραμα	ραμα	Ῥαμᾶ	R(ama=				*RAMA	*RAMA
+18	25	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	25	N	NS	5250	Βηρωθ	βηρωθ	βηρωθ	Βηρωθ	Bhrwq				*BHRWQ	*BHRWQ
+18	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	26	N	NS	5250	Μασφα	μασφα	μασφα	Μασφα	Masfa				*MASFA	*MASFA
+18	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	26	N	NS	5250	Χεφιρα	χεφιρα	χεφιρα	Χεφιρα	Xefira				*XEFIRA	*XEFIRA
+18	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	26	N	NS	5250	Αμωσα	αμωσα	αμωσα	Αμωσα	Amwsa				*AMWSA	*AMWSA
+18	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	27	N	NS	5250	Ρεκεμ	ρεκεμ	ρεκεμ	Ρεκεμ	Rekem				*REKEM	*REKEM
+18	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	27	N	NS	5250	Ιερφαηλ	ιερφαηλ	ιερφαηλ	Ιερφαηλ	Ierfahl				*IERFAHL	*IERFAHL
+18	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	27	N	NS	5250	Θαραλα	θαραλα	θαραλα	Θαραλα	Qarala				*QARALA	*QARALA
+18	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	28	N	NS	5250	Σηλαλεφ	σηλαλεφ	σηλαλεφ	Σηλαλεφ	Shlalef				*SHLALEF	*SHLALEF
+18	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	28	N	NS	5250	Ιεβους	ιεβους	ιεβους	Ιεβους	Iebouj				*IEBOUS	*IEBOUS
+18	28	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj	[			AU(/TH	OU(=TOS
+18	28	V9	PAI3S	631937	ἐστὶν	ἐστιν	εστιν	εἰμί	ei)mi/				E)STI\N	EI)MI/
+18	28	N	NSF	13442	Ιερουσαλημ	ιερουσαλημ	ιερουσαλημ	Ἱερουσαλήμ	I(erousalh/m		]		*IEROUSALHM	*I)EROUSALH/M
+18	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	28	N	NS	5250	Γαβααθ	γαβααθ	γαβααθ	Γαβααθ	Gabaaq				*GABAAQ	*GABAAQ
+18	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	28	N3I	NSF	13442	πόλις	πολις	πολις	πόλις	po/lij				PO/LIS	PO/LIS
+18	28	N	NS	5250	Ιαριμ	ιαριμ	ιαριμ	Ιαριμ	Iarim			,	*IARIM	*IARIM
+18	28	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+18	28	M		7	δέκα	δεκα	δεκα	δέκα	de/ka				DE/KA	DE/KA
+18	28	A3	NPM	9859	τρεῖς	τρεις	τρεις	τρεῖς	trei=j				TREI=S	TREI=S
+18	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+18	28	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+18	28	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+18	28	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+18	28	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj				AU(/TH	OU(=TOS
+18	28	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+18	28	N1A	NSF	13442	κληρονομία	κληρονομια	κληρονομια	κληρονομία	klhronomi/a				KLHRONOMI/A	KLHRONOMI/A
+18	28	N2	GPM	10050	υἱῶν	υἱων	υιων	υἱός	ui(o/j				UI(W=N	UI(O/S
+18	28	N	NSM	9346	Βενιαμιν	βενιαμιν	βενιαμιν	Βενιαμίν	Beniami/n				*BENIAMIN	*BENIAMI/N
+18	28	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+18	28	N2	APM	9986	δήμους	δημους	δημους	δῆμος	dh=moj				DH/MOUS	DH=MOS
+18	28	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+19	1	C		4	Καὶ	και	και	καί	kai/				KAI\	KAI/
+19	1	VBI	AAI3S	633473	ἐξῆλθεν	ἐξηλθεν	εξηλθεν	ἐξέρχομαι	e)ce/rxomai				E)CH=LQEN	E)/RXOMAI        E)K
+19	1	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	1	N2	NSM	9346	κλῆρος	κληρος	κληρος	κλῆρος	klh=roj				KLH=ROS	KLH=ROS
+19	1	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	1	A1A	NSM	9347	δεύτερος	δευτερος	δευτερος	δεύτερος	deu/teroj				DEU/TEROS	DEU/TEROS
+19	1	RA	DSM	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	1	N	DSM	9602	Συμεων	συμεων	συμεων	Συμεών	Sumew/n			,	*SUMEWN	*SUMEWN
+19	1	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	1	VCI	API3S	641665	ἐγενήθη	ἐγενηθη	εγενηθη	γίνομαι	gi/nomai				E)GENH/QH	GI/GNOMAI
+19	1	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	1	N1A	NSF	13442	κληρονομία	κληρονομια	κληρονομια	κληρονομία	klhronomi/a				KLHRONOMI/A	KLHRONOMI/A
+19	1	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	1	P		8	ἀνὰ	ἀνα	ανα	ἀνά	a)na/				A)NA\	A)NA/
+19	1	A1	ASM	9475	μέσον	μεσον	μεσον	μέσος	me/soj				ME/SON	ME/SOS
+19	1	N2	GSM	9538	κλήρου	κληρου	κληρου	κλῆρος	klh=roj				KLH/ROU	KLH=ROS
+19	1	N2	GPM	10050	υἱῶν	υἱων	υιων	υἱός	ui(o/j				UI(W=N	UI(O/S
+19	1	N	GSM	9538	Ιουδα	ιουδα	ιουδα	Ἰουδά	I)ouda/			.	*IOUDA	*IOUDA
+19	2	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	2	VCI	API3S	641665	ἐγενήθη	ἐγενηθη	εγενηθη	γίνομαι	gi/nomai				E)GENH/QH	GI/GNOMAI
+19	2	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	2	N2	NSM	9346	κλῆρος	κληρος	κληρος	κλῆρος	klh=roj				KLH=ROS	KLH=ROS
+19	2	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	2	N	NS	5250	Βηρσαβεε	βηρσαβεε	βηρσαβεε	Βηρσαβεε	Bhrsabee				*BHRSABEE	*BHRSABEE
+19	2	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	2	N	NS	5250	Σαβεε	σαβεε	σαβεε	Σαβεε	Sabee				*SABEE	*SABEE
+19	2	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	2	N	NS	5250	Μωλαδα	μωλαδα	μωλαδα	Μωλαδα	Mwlada				*MWLADA	*MWLADA
+19	3	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	3	N	NS	5250	Ασερσουαλ	ασερσουαλ	ασερσουαλ	Ασερσουαλ	Asersoual				*ASERSOUAL	*ASERSOUAL
+19	3	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	3	N	NS	5250	Βαθουλ	βαθουλ	βαθουλ	Βαθουλ	Baqoul				*BAQOUL	*BAQOUL
+19	3	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	3	N	NS	5250	Βωλα	βωλα	βωλα	Βωλα	Bwla				*BWLA	*BWLA
+19	3	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	3	N	NS	5250	Ασομ	ασομ	ασομ	Ασομ	Asom				*ASOM	*ASOM
+19	4	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	4	N	NS	5250	Ελθουλαδ	ελθουλαδ	ελθουλαδ	Ελθουλαδ	Elqoulad				*ELQOULAD	*ELQOULAD
+19	4	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	4	N	NS	5250	Ερμα	ερμα	ερμα	Ερμα	Erma				*ERMA	*ERMA
+19	5	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	5	N	NS	5250	Σεκελα	σεκελα	σεκελα	Σεκελα	Sekela				*SEKELA	*SEKELA
+19	5	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	5	N	NS	5250	Βαιθαμμαρχαβωθ	βαιθαμμαρχαβωθ	βαιθαμμαρχαβωθ	Βαιθαμμαρχαβωθ	Baiqammarxabwq				*BAIQAMMARXABWQ	*BAIQAMMARXABWQ
+19	5	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	5	N	NS	5250	Ασερσουσιμ	ασερσουσιμ	ασερσουσιμ	Ασερσουσιμ	Asersousim				*ASERSOUSIM	*ASERSOUSIM
+19	6	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	6	N	NS	5250	Βαιθλαβαθ	βαιθλαβαθ	βαιθλαβαθ	Βαιθλαβαθ	Baiqlabaq				*BAIQLABAQ	*BAIQLABAQ
+19	6	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	6	RA	NPM	10	οἱ	οἱ	οι	ὁ	o(				OI(	O(
+19	6	N2	NPM	9858	ἀγροὶ	ἀγροι	αγροι	ἀγρός	a)gro/j				A)GROI\	A)GRO/S
+19	6	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			,	AU)TW=N	AU)TO/S
+19	6	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+19	6	M		7	δέκα	δεκα	δεκα	δέκα	de/ka				DE/KA	DE/KA
+19	6	A3	NPF	13955	τρεῖς	τρεις	τρεις	τρεῖς	trei=j				TREI=S	TREI=S
+19	6	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	6	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+19	6	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+19	6	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+19	7	N	NS	5250	Αιν	αιν	αιν	Αιν	Ain				*AIN	*AIN
+19	7	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	7	N	NS	5250	Ρεμμων	ρεμμων	ρεμμων	Ρεμμων	Remmwn				*REMMWN	*REMMWN
+19	7	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	7	N	NS	5250	Εθερ	εθερ	εθερ	Εθερ	Eqer				*EQER	*EQER
+19	7	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	7	N	NS	5250	Ασαν	ασαν	ασαν	Ασαν	Asan			,	*ASAN	*ASAN
+19	7	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+19	7	A3	NPF	13955	τέσσαρες	τεσσαρες	τεσσαρες	τέσσαρες	te/ssarej				TE/SSARES	TE/SSARES
+19	7	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	7	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+19	7	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+19	7	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	8	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+19	8	D		9	περικύκλῳ	περικυκλω	περικυκλω	περικύκλῳ	periku/klw|				PERIKU/KLW|	PERIKU/KLW|
+19	8	RA	GPF	10	τῶν	των	των	ὁ	o(				TW=N	O(
+19	8	N3I	GPF	14146	πόλεων	πολεων	πολεων	πόλις	po/lij				PO/LEWN	PO/LIS
+19	8	RD	GPF	11	τούτων	τουτων	τουτων	οὗτος	ou(=toj				TOU/TWN	OU(=TOS
+19	8	P		8	ἕως	ἑως	εως	ἕως	e(/wj				E(/WS	E(/WS
+19	8	N	GS	5442	Βααλεθβηρραμωθ	βααλεθβηρραμωθ	βααλεθβηρραμωθ	Βααλεθβηρραμωθ	Baaleqbhrramwq				*BAALEQBHRRAMWQ	*BAALEQBHRRAMWQ
+19	8	V1	PMPGPM	5158337	πορευομένων	πορευομενων	πορευομενων	πορεύομαι	poreu/omai				POREUOME/NWN	POREU/OMAI
+19	8	N	GS	5442	Ιαμεθ	ιαμεθ	ιαμεθ	Ιαμεθ	Iameq				*IAMEQ	*IAMEQ
+19	8	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	8	N3	ASM	9474	λίβα	λιβα	λιβα	λίψ	li/y			.	LI/BA	LI/Y
+19	8	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj				AU(/TH	OU(=TOS
+19	8	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	8	N1A	NSF	13442	κληρονομία	κληρονομια	κληρονομια	κληρονομία	klhronomi/a				KLHRONOMI/A	KLHRONOMI/A
+19	8	N1	GSF	13634	φυλῆς	φυλης	φυλης	φυλή	fulh/				FULH=S	FULH/
+19	8	N2	GPM	10050	υἱῶν	υἱων	υιων	υἱός	ui(o/j				UI(W=N	UI(O/S
+19	8	N	GSM	9538	Συμεων	συμεων	συμεων	Συμεών	Sumew/n				*SUMEWN	*SUMEWN
+19	8	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	8	N2	APM	9986	δήμους	δημους	δημους	δῆμος	dh=moj				DH/MOUS	DH=MOS
+19	8	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+19	9	P		8	ἀπὸ	ἀπο	απο	ἀπό	a)po/				A)PO\	A)PO/
+19	9	RA	GSM	10	τοῦ	του	του	ὁ	o(				TOU=	O(
+19	9	N2	GSM	9538	κλήρου	κληρου	κληρου	κλῆρος	klh=roj				KLH/ROU	KLH=ROS
+19	9	N	GSM	9538	Ιουδα	ιουδα	ιουδα	Ἰουδά	I)ouda/				*IOUDA	*IOUDA
+19	9	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	9	N1A	NSF	13442	κληρονομία	κληρονομια	κληρονομια	κληρονομία	klhronomi/a				KLHRONOMI/A	KLHRONOMI/A
+19	9	N1	GSF	13634	φυλῆς	φυλης	φυλης	φυλή	fulh/				FULH=S	FULH/
+19	9	N2	GPM	10050	υἱῶν	υἱων	υιων	υἱός	ui(o/j				UI(W=N	UI(O/S
+19	9	N	GSM	9538	Συμεων	συμεων	συμεων	Συμεών	Sumew/n			,	*SUMEWN	*SUMEWN
+19	9	C		4	ὅτι	ὁτι	οτι	ὅτι	o(/ti				O(/TI	O(/TI
+19	9	VCI	API3S	641665	ἐγενήθη	ἐγενηθη	εγενηθη	γίνομαι	gi/nomai				E)GENH/QH	GI/GNOMAI
+19	9	N3D	NSF	13442	μερὶς	μερις	μερις	μερίς	meri/j				MERI\S	MERI/S
+19	9	N2	GPM	10050	υἱῶν	υἱων	υιων	υἱός	ui(o/j				UI(W=N	UI(O/S
+19	9	N	GSM	9538	Ιουδα	ιουδα	ιουδα	Ἰουδά	I)ouda/				*IOUDA	*IOUDA
+19	9	A3	NSMC	42115	μείζων	μειζων	μειζων	μείζων	mei/zwn				MEI/ZWN	ME/GAS
+19	9	RA	GSF	10	τῆς	της	της	ὁ	o(				TH=S	O(
+19	9	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			·	AU)TW=N	AU)TO/S
+19	9	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	9	VAI	AAI3P	895617	ἐκληρονόμησαν	ἐκληρονομησαν	εκληρονομησαν	κληρονομέω	klhronome/w				E)KLHRONO/MHSAN	KLHRONOME/W
+19	9	RA	NPM	10	οἱ	οἱ	οι	ὁ	o(				OI(	O(
+19	9	N2	NPM	9858	υἱοὶ	υἱοι	υιοι	υἱός	ui(o/j				UI(OI\	UI(O/S
+19	9	N	GSM	9538	Συμεων	συμεων	συμεων	Συμεών	Sumew/n				*SUMEWN	*SUMEWN
+19	9	P		8	ἐν	ἐν	εν	ἐν	e)n				E)N	E)N
+19	9	A1	DSM	9603	μέσῳ	μεσω	μεσω	μέσος	me/soj				ME/SW|	ME/SOS
+19	9	RA	GSM	10	τοῦ	του	του	ὁ	o(				TOU=	O(
+19	9	N2	GSM	9538	κλήρου	κληρου	κληρου	κλῆρος	klh=roj				KLH/ROU	KLH=ROS
+19	9	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+19	10	C		4	Καὶ	και	και	καί	kai/				KAI\	KAI/
+19	10	VBI	AAI3S	633473	ἐξῆλθεν	ἐξηλθεν	εξηλθεν	ἐξέρχομαι	e)ce/rxomai				E)CH=LQEN	E)/RXOMAI        E)K
+19	10	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	10	N2	NSM	9346	κλῆρος	κληρος	κληρος	κλῆρος	klh=roj				KLH=ROS	KLH=ROS
+19	10	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	10	A1	NSM	9347	τρίτος	τριτος	τριτος	τρίτος	tri/toj				TRI/TOS	TRI/TOS
+19	10	RA	DSM	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	10	N	DSM	9602	Ζαβουλων	ζαβουλων	ζαβουλων	Ζαβουλών	Zaboulw/n				*ZABOULWN	*ZABOULWN
+19	10	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	10	N2	APM	9986	δήμους	δημους	δημους	δῆμος	dh=moj				DH/MOUS	DH=MOS
+19	10	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+19	10	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	10	VF	FMI3S	637057	ἔσται	ἐσται	εσται	εἰμί	ei)mi/				E)/STAI	EI)MI/
+19	10	RA	NPN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	10	N2N	NPN	18050	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	10	RA	GSF	10	τῆς	της	της	ὁ	o(				TH=S	O(
+19	10	N1A	GSF	13634	κληρονομίας	κληρονομιας	κληρονομιας	κληρονομία	klhronomi/a				KLHRONOMI/AS	KLHRONOMI/A
+19	10	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	10	P		8	ἕως	ἑως	εως	ἕως	e(/wj				E(/WS	E(/WS
+19	10	N	GS	5442	Σαριδ	σαριδ	σαριδ	Σαριδ	Sarid			·	*SARID	*SARID
+19	11	RA	NPN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	11	N2N	NPN	18050	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	11	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	11	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	11	N1S	NSF	13442	θάλασσα	θαλασσα	θαλασσα	θάλασσα	qa/lassa				QA/LASSA	QA/LASSA
+19	11	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	11	N	NS	5250	Μαραλα	μαραλα	μαραλα	Μαραλα	Marala				*MARALA	*MARALA
+19	11	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	11	VF	FAI3S	632961	συνάψει	συναψει	συναψει	συνάπτω	suna/ptw				SUNA/YEI	A(/PTW           SUN
+19	11	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	11	N	AS	5378	Δαβασθαι	δαβασθαι	δαβασθαι	Δαβασθαι	Dabasqai				*DABASQAI	*DABASQAI
+19	11	P		8	εἰς	εἰς	εις	εἰς	ei)j				EI)S	EI)S
+19	11	RA	ASF	10	τὴν	την	την	ὁ	o(				TH\N	O(
+19	11	N3G	ASF	13570	φάραγγα	φαραγγα	φαραγγα	φάραγξ	fa/ragc			,	FA/RAGGA	FA/RAGC
+19	11	RR	NSF	14	ἥ	ἡ	η	ὅς	o(/j				H(/	O(/S
+19	11	V9	PAI3S	631937	ἐστιν	ἐστιν	εστιν	εἰμί	ei)mi/				E)STIN	EI)MI/
+19	11	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	11	N2N	ASN	17666	πρόσωπον	προσωπον	προσωπον	πρόσωπον	pro/swpon				PRO/SWPON	PRO/SWPON
+19	11	N	GS	5442	Ιεκναμ	ιεκναμ	ιεκναμ	Ιεκναμ	Ieknam			,	*IEKNAM	*IEKNAM
+19	12	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	12	VF	FAI3S	632961	ἀναστρέψει	ἀναστρεψει	αναστρεψει	ἀναστρέφω	a)nastre/fw				A)NASTRE/YEI	STRE/FW          A)NA
+19	12	P		8	ἀπὸ	ἀπο	απο	ἀπό	a)po/				A)PO\	A)PO/
+19	12	N	GS	5442	Σαριδ	σαριδ	σαριδ	Σαριδ	Sarid				*SARID	*SARID
+19	12	P		8	ἐξ	ἐξ	εξ	ἐκ	e)k				E)C	E)K
+19	12	A1A	GSF	13635	ἐναντίας	ἐναντιας	εναντιας	ἐναντίος	e)nanti/oj				E)NANTI/AS	E)NANTI/OS
+19	12	P		8	ἀπὸ	ἀπο	απο	ἀπό	a)po/				A)PO\	A)PO/
+19	12	N1	GPF	14146	ἀνατολῶν	ἀνατολων	ανατολων	ἀνατολή	a)natolh/				A)NATOLW=N	A)NATOLH/
+19	12	N	GS	5442	Σαμς	σαμς	σαμς	Σαμς	Samj				*SAMS	*SAMS
+19	12	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	12	RA	APN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	12	N2N	APN	18178	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	12	N	GS	5442	Χασαλωθ	χασαλωθ	χασαλωθ	Χασαλωθ	Xasalwq				*XASALWQ	*XASALWQ
+19	12	N	GS	5442	Θαβωρ	θαβωρ	θαβωρ	Θαβωρ	Qabwr				*QABWR	*QABWR
+19	12	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	12	VF	FMI3S	637057	διελεύσεται	διελευσεται	διελευσεται	διέρχομαι	die/rxomai				DIELEU/SETAI	E)/RXOMAI        DIA
+19	12	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	12	N	AS	5378	Δαβραθ	δαβραθ	δαβραθ	Δαβραθ	Dabraq				*DABRAQ	*DABRAQ
+19	12	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	12	VF	FMI3S	637057	προσαναβήσεται	προσαναβησεται	προσαναβησεται	προσαναβαίνω	prosanabai/nw				PROSANABH/SETAI	BAI/NW           PROS  A)NA
+19	12	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	12	N	AS	5378	Ιαφαγαι	ιαφαγαι	ιαφαγαι	Ιαφαγαι	Iafagai				*IAFAGAI	*IAFAGAI
+19	13	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	13	D		9	ἐκεῖθεν	ἐκειθεν	εκειθεν	ἐκεῖθεν	e)kei=qen				E)KEI=QEN	E)KEI=QEN
+19	13	VF	FMI3S	637057	περιελεύσεται	περιελευσεται	περιελευσεται	περιέρχομαι	perie/rxomai				PERIELEU/SETAI	E)/RXOMAI        PERI
+19	13	P		8	ἐξ	ἐξ	εξ	ἐκ	e)k				E)C	E)K
+19	13	A1A	GSF	13635	ἐναντίας	ἐναντιας	εναντιας	ἐναντίος	e)nanti/oj				E)NANTI/AS	E)NANTI/OS
+19	13	P		8	ἐπ	ἐπ	επ	ἐπί	e)pi/				E)P'	E)PI/
+19	13	N1	APF	14082	ἀνατολὰς	ἀνατολας	ανατολας	ἀνατολή	a)natolh/				A)NATOLA\S	A)NATOLH/
+19	13	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	13	N	AS	5378	Γεθθα	γεθθα	γεθθα	Γεθθα	Geqqa				*GEQQA	*GEQQA
+19	13	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	13	N3I	ASF	13570	πόλιν	πολιν	πολιν	πόλις	po/lij				PO/LIN	PO/LIS
+19	13	N	AS	5378	Κασιμ	κασιμ	κασιμ	Κασιμ	Kasim				*KASIM	*KASIM
+19	13	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	13	VF	FMI3S	637057	διελεύσεται	διελευσεται	διελευσεται	διέρχομαι	die/rxomai				DIELEU/SETAI	E)/RXOMAI        DIA
+19	13	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	13	N	AS	5378	Ρεμμων	ρεμμων	ρεμμων	Ρεμμων	Remmwn				*REMMWN	*REMMWN
+19	13	N	AS	5378	Αμμαθαριμ	αμμαθαριμ	αμμαθαριμ	Αμμαθαριμ	Ammaqarim				*AMMAQARIM	*AMMAQARIM
+19	13	N	AS	5378	Αννουα	αννουα	αννουα	Αννουα	Annoua				*ANNOUA	*ANNOUA
+19	14	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	14	VF	FMI3S	637057	περιελεύσεται	περιελευσεται	περιελευσεται	περιέρχομαι	perie/rxomai				PERIELEU/SETAI	E)/RXOMAI        PERI
+19	14	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	14	RA	APN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	14	N2N	APN	18178	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	14	N1T	GSM	9538	βορρᾶ	βορρα	βορρα	βορρᾶς	borra=j				BORRA=	BORE/AS
+19	14	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	14	N	AS	5378	Ενναθωθ	ενναθωθ	ενναθωθ	Ενναθωθ	Ennaqwq			,	*ENNAQWQ	*ENNAQWQ
+19	14	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	14	VF	FMI3S	637057	ἔσται	ἐσται	εσται	εἰμί	ei)mi/				E)/STAI	EI)MI/
+19	14	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	14	N2	NSF	13442	διέξοδος	διεξοδος	διεξοδος	διέξοδος	die/codoj				DIE/CODOS	DIE/CODOS
+19	14	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	14	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	14	N	AS	5378	Γαιιεφθαηλ	γαιιεφθαηλ	γαιιεφθαηλ	Γαιιεφθαηλ	Gaiiefqahl				*GAIIEFQAHL	*GAIIEFQAHL
+19	15	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	15	N	AS	5378	Κατταθ	κατταθ	κατταθ	Κατταθ	Kattaq				*KATTAQ	*KATTAQ
+19	15	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	15	N	AS	5378	Νααλωλ	νααλωλ	νααλωλ	Νααλωλ	Naalwl				*NAALWL	*NAALWL
+19	15	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	15	N	AS	5378	Σεμρων	σεμρων	σεμρων	Σεμρων	Semrwn				*SEMRWN	*SEMRWN
+19	15	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	15	N	AS	5378	Ιαδηλα	ιαδηλα	ιαδηλα	Ιαδηλα	Iadhla				*IADHLA	*IADHLA
+19	15	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	15	N	AS	5378	Βαιθλεεμ	βαιθλεεμ	βαιθλεεμ	Βαιθλεεμ	Baiqleem			.	*BAIQLEEM	*BAIQLEEM
+19	16	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj				AU(/TH	OU(=TOS
+19	16	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	16	N1A	NSF	13442	κληρονομία	κληρονομια	κληρονομια	κληρονομία	klhronomi/a				KLHRONOMI/A	KLHRONOMI/A
+19	16	RA	GSF	10	τῆς	της	της	ὁ	o(				TH=S	O(
+19	16	N1	GSF	13634	φυλῆς	φυλης	φυλης	φυλή	fulh/				FULH=S	FULH/
+19	16	N2	GPM	10050	υἱῶν	υἱων	υιων	υἱός	ui(o/j				UI(W=N	UI(O/S
+19	16	N	GSM	9538	Ζαβουλων	ζαβουλων	ζαβουλων	Ζαβουλών	Zaboulw/n				*ZABOULWN	*ZABOULWN
+19	16	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	16	N2	APM	9986	δήμους	δημους	δημους	δῆμος	dh=moj				DH/MOUS	DH=MOS
+19	16	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			,	AU)TW=N	AU)TO/S
+19	16	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+19	16	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+19	16	RD	NPF	11	αὗται	αὑται	αυται	οὗτος	ou(=toj				AU(=TAI	OU(=TOS
+19	16	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	16	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+19	16	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+19	16	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+19	17	C		4	Καὶ	και	και	καί	kai/				KAI\	KAI/
+19	17	RA	DSM	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	17	N	DSM	9602	Ισσαχαρ	ισσαχαρ	ισσαχαρ	Ἰσσαχάρ	I)ssaxa/r				*ISSAXAR	*ISSAXAR
+19	17	VBI	AAI3S	633473	ἐξῆλθεν	ἐξηλθεν	εξηλθεν	ἐξέρχομαι	e)ce/rxomai				E)CH=LQEN	E)/RXOMAI        E)K
+19	17	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	17	N2	NSM	9346	κλῆρος	κληρος	κληρος	κλῆρος	klh=roj				KLH=ROS	KLH=ROS
+19	17	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	17	A1	NSM	9347	τέταρτος	τεταρτος	τεταρτος	τέταρτος	te/tartoj			.	TE/TARTOS	TE/TARTOS
+19	18	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	18	VCI	API3S	641665	ἐγενήθη	ἐγενηθη	εγενηθη	γίνομαι	gi/nomai				E)GENH/QH	GI/GNOMAI
+19	18	RA	NPN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	18	N2N	NPN	18050	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	18	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	18	N	NS	5250	Ιεζραελ	ιεζραελ	ιεζραελ	Ιεζραελ	Iezrael				*IEZRAEL	*IEZRAEL
+19	18	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	18	N	NS	5250	Αχασελωθ	αχασελωθ	αχασελωθ	Αχασελωθ	Axaselwq				*AXASELWQ	*AXASELWQ
+19	18	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	18	N	NS	5250	Σουναμ	σουναμ	σουναμ	Σουναμ	Sounam				*SOUNAM	*SOUNAM
+19	19	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	19	N	NS	5250	Αφεραιμ	αφεραιμ	αφεραιμ	Αφεραϊμ	Aferai:m				*AFERAI+M	*AFERAI+M
+19	19	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	19	N	NS	5250	Σιαν	σιαν	σιαν	Σιαν	Sian				*SIAN	*SIAN
+19	19	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	19	N	NS	5250	Ρεναθ	ρεναθ	ρεναθ	Ρεναθ	Renaq				*RENAQ	*RENAQ
+19	19	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	19	N	NS	5250	Αναρεθ	αναρεθ	αναρεθ	Αναρεθ	Anareq				*ANAREQ	*ANAREQ
+19	20	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	20	N	NS	5250	Ραββωθ	ραββωθ	ραββωθ	Ραββωθ	Rabbwq				*RABBWQ	*RABBWQ
+19	20	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	20	N	NS	5250	Κεσιων	κεσιων	κεσιων	Κεσιων	Kesiwn				*KESIWN	*KESIWN
+19	20	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	20	N	NS	5250	Αεμε	αεμε	αεμε	Αεμε	Aeme				*AEME	*AEME
+19	21	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	21	N	NS	5250	Ραμαθ	ραμαθ	ραμαθ	Ραμαθ	Ramaq				*RAMAQ	*RAMAQ
+19	21	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	21	N	NS	5250	Ηνγαννιμ	ηνγαννιμ	ηνγαννιμ	Ηνγαννιμ	Hngannim				*HNGANNIM	*HNGANNIM
+19	21	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	21	N	NS	5250	Ηναδδα	ηναδδα	ηναδδα	Ηναδδα	Hnadda				*HNADDA	*HNADDA
+19	21	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	21	N	NS	5250	Βαιθφασης	βαιθφασης	βαιθφασης	Βαιθφασης	Baiqfashj			,	*BAIQFASHS	*BAIQFASHS
+19	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	22	VF	FAI3S	632961	συνάψει	συναψει	συναψει	συνάπτω	suna/ptw				SUNA/YEI	A(/PTW           SUN
+19	22	RA	APN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	22	N2N	APN	18178	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	22	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	22	N	AS	5378	Θαβωθ	θαβωθ	θαβωθ	Θαβωθ	Qabwq				*QABWQ	*QABWQ
+19	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	22	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	22	N	AS	5378	Σασιμα	σασιμα	σασιμα	Σασιμα	Sasima				*SASIMA	*SASIMA
+19	22	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	22	N1S	ASF	13570	θάλασσαν	θαλασσαν	θαλασσαν	θάλασσα	qa/lassa				QA/LASSAN	QA/LASSA
+19	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	22	N	AS	5378	Βαιθσμας	βαιθσμας	βαιθσμας	Βαιθσμας	Baiqsmaj			,	*BAIQSMAS	*BAIQSMAS
+19	22	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	22	VF	FMI3S	637057	ἔσται	ἐσται	εσται	εἰμί	ei)mi/				E)/STAI	EI)MI/
+19	22	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	22	N2	NSF	13442	διέξοδος	διεξοδος	διεξοδος	διέξοδος	die/codoj				DIE/CODOS	DIE/CODOS
+19	22	RA	GPN	10	τῶν	των	των	ὁ	o(				TW=N	O(
+19	22	N2N	GPN	18242	ὁρίων	ὁριων	οριων	ὅριον	o(/rion				O(RI/WN	O(/RION
+19	22	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	22	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	22	N1M	NSM	9346	Ιορδάνης	ιορδανης	ιορδανης	Ἰορδάνης	I)orda/nhj			.	*IORDA/NHS	*I)ORDA/NHS
+19	23	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj				AU(/TH	OU(=TOS
+19	23	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	23	N1A	NSF	13442	κληρονομία	κληρονομια	κληρονομια	κληρονομία	klhronomi/a				KLHRONOMI/A	KLHRONOMI/A
+19	23	N1	GSF	13634	φυλῆς	φυλης	φυλης	φυλή	fulh/				FULH=S	FULH/
+19	23	N2	GPM	10050	υἱῶν	υἱων	υιων	υἱός	ui(o/j				UI(W=N	UI(O/S
+19	23	N	GSM	9538	Ισσαχαρ	ισσαχαρ	ισσαχαρ	Ἰσσαχάρ	I)ssaxa/r				*ISSAXAR	*ISSAXAR
+19	23	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	23	N2	APM	9986	δήμους	δημους	δημους	δῆμος	dh=moj				DH/MOUS	DH=MOS
+19	23	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			,	AU)TW=N	AU)TO/S
+19	23	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+19	23	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+19	23	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	23	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+19	23	N3I	NPF	13954	ἐπαύλεις	ἐπαυλεις	επαυλεις	ἔπαυλις	e)/paulij				E)PAU/LEIS	E)/PAULIS
+19	23	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+19	24	C		4	Καὶ	και	και	καί	kai/				KAI\	KAI/
+19	24	VBI	AAI3S	633473	ἐξῆλθεν	ἐξηλθεν	εξηλθεν	ἐξέρχομαι	e)ce/rxomai				E)CH=LQEN	E)/RXOMAI        E)K
+19	24	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	24	N2	NSM	9346	κλῆρος	κληρος	κληρος	κλῆρος	klh=roj				KLH=ROS	KLH=ROS
+19	24	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	24	A1	NSM	9347	πέμπτος	πεμπτος	πεμπτος	πέμπτος	pe/mptoj				PE/MPTOS	PE/MPTOS
+19	24	N	GSM	9538	Ασηρ	ασηρ	ασηρ	Ἀσήρ	A)sh/r				*ASHR	*ASHR
+19	24	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	24	N2	APM	9986	δήμους	δημους	δημους	δῆμος	dh=moj				DH/MOUS	DH=MOS
+19	24	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+19	25	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	25	VCI	API3S	641665	ἐγενήθη	ἐγενηθη	εγενηθη	γίνομαι	gi/nomai				E)GENH/QH	GI/GNOMAI
+19	25	RA	NPN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	25	N2N	NPN	18050	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	25	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	25	N	NS	5250	Χελκαθ	χελκαθ	χελκαθ	Χελκαθ	Xelkaq				*XELKAQ	*XELKAQ
+19	25	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	25	N	NS	5250	Οολι	οολι	οολι	Οολι	Ooli				*OOLI	*OOLI
+19	25	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	25	N	NS	5250	Βατνε	βατνε	βατνε	Βατνε	Batne				*BATNE	*BATNE
+19	25	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	25	N	NS	5250	Αχσαφ	αχσαφ	αχσαφ	Αχσαφ	Axsaf				*AXSAF	*AXSAF
+19	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	26	N	NS	5250	Αμαδ	αμαδ	αμαδ	Αμαδ	Amad				*AMAD	*AMAD
+19	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	26	N	NS	5250	Μασαλ	μασαλ	μασαλ	Μασαλ	Masal				*MASAL	*MASAL
+19	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	26	VF	FAI3S	632961	συνάψει	συναψει	συναψει	συνάπτω	suna/ptw				SUNA/YEI	A(/PTW           SUN
+19	26	RA	DS	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	26	N2	DS	5506	Καρμήλῳ	καρμηλω	καρμηλω	Κάρμηλος	Ka/rmhloj				*KARMH/LW|	*KA/RMHLOS
+19	26	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	26	N1S	ASF	13570	θάλασσαν	θαλασσαν	θαλασσαν	θάλασσα	qa/lassa				QA/LASSAN	QA/LASSA
+19	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	26	RA	DSM	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	26	N	DSM	9602	Σιωρ	σιωρ	σιωρ	Σιωρ	Siwr				*SIWR	*SIWR
+19	26	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	26	N	DS	5506	Λαβαναθ	λαβαναθ	λαβαναθ	Λαβαναθ	Labanaq				*LABANAQ	*LABANAQ
+19	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	27	VF	FAI3S	632961	ἐπιστρέψει	ἐπιστρεψει	επιστρεψει	ἐπιστρέφω	e)pistre/fw				E)PISTRE/YEI	STRE/FW          E)PI
+19	27	P		8	ἀπ	ἀπ	απ	ἀπό	a)po/				A)P'	A)PO/
+19	27	N1	GPF	14146	ἀνατολῶν	ἀνατολων	ανατολων	ἀνατολή	a)natolh/				A)NATOLW=N	A)NATOLH/
+19	27	N2	GSM	9538	ἡλίου	ἡλιου	ηλιου	ἥλιος	h(/lioj				H(LI/OU	H(/LIOS
+19	27	N	DS	5506	Βηθδαγων	βηθδαγων	βηθδαγων	Βηθδαγων	Bhqdagwn				*BHQDAGWN	*BHQDAGWN
+19	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	27	VF	FAI3S	632961	συνάψει	συναψει	συναψει	συνάπτω	suna/ptw				SUNA/YEI	A(/PTW           SUN
+19	27	RA	DSM	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	27	N	DSM	9602	Ζαβουλων	ζαβουλων	ζαβουλων	Ζαβουλών	Zaboulw/n				*ZABOULWN	*ZABOULWN
+19	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	27	P		8	ἐν	ἐν	εν	ἐν	e)n				E)N	E)N
+19	27	N	DS	5506	Γαι	γαι	γαι	Γαι	Gai				*GAI	*GAI
+19	27	N	GSM	9538	Ιεφθαηλ	ιεφθαηλ	ιεφθαηλ	Ιεφθαηλ	Iefqahl				*IEFQAHL	*IEFQAHL
+19	27	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	27	N1T	ASM	9474	βορρᾶν	βορραν	βορραν	βορρᾶς	borra=j			,	BORRA=N	BORE/AS
+19	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	27	VF	FMI3S	637057	εἰσελεύσεται	εἰσελευσεται	εισελευσεται	εἰσέρχομαι	ei)se/rxomai				EI)SELEU/SETAI	E)/RXOMAI        EI)S
+19	27	RA	APN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	27	N2N	APN	18178	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	27	N	GS	5442	Σαφθαβηθαεμεκ	σαφθαβηθαεμεκ	σαφθαβηθαεμεκ	Σαφθαβηθαεμεκ	Safqabhqaemek				*SAFQABHQAEMEK	*SAFQABHQAEMEK
+19	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	27	VF	FMI3S	637057	πορεύσεται	πορευσεται	πορευσεται	πορεύομαι	poreu/omai				POREU/SETAI	POREU/OMAI
+19	27	RA	NSN	10	τὸ	το	το	ὁ	o(				TO\	O(
+19	27	N2N	NSN	17538	μεθόριον	μεθοριον	μεθοριον	μεθόριος	meqo/rioj				MEQO/RION	MEQO/RION
+19	27	N	GS	5442	Ανιηλ	ανιηλ	ανιηλ	Ανιηλ	Anihl				*ANIHL	*ANIHL
+19	27	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	27	VF	FMI3S	637057	διελεύσεται	διελευσεται	διελευσεται	διέρχομαι	die/rxomai				DIELEU/SETAI	E)/RXOMAI        DIA
+19	27	P		8	εἰς	εἰς	εις	εἰς	ei)j				EI)S	EI)S
+19	27	N	AS	5378	Χαβωλ	χαβωλ	χαβωλ	Χαβωλ	Xabwl				*XABWL	*XABWL
+19	27	P		8	ἀπὸ	ἀπο	απο	ἀπό	a)po/				A)PO\	A)PO/
+19	27	A1A	GPM	10051	ἀριστερῶν	ἀριστερων	αριστερων	ἀριστερός	a)ristero/j				A)RISTERW=N	A)RISTERO/S
+19	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	28	N	NS	5250	Αχραν	αχραν	αχραν	Αχραν	Axran				*AXRAN	*AXRAN
+19	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	28	N	NS	5250	Ροωβ	ροωβ	ροωβ	Ροωβ	Rowb				*ROWB	*ROWB
+19	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	28	N	NS	5250	Αμων	αμων	αμων	Ἀμών	A)mw/n				*AMWN	*AMWN
+19	28	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	28	N	NS	5250	Κανα	κανα	κανα	Κανά	Kana/				*KANA	*KANA
+19	28	P		8	ἕως	ἑως	εως	ἕως	e(/wj				E(/WS	E(/WS
+19	28	N3W	GSF	13634	Σιδῶνος	σιδωνος	σιδωνος	Σιδών	Sidw/n				*SIDW=NOS	*SIDW/N
+19	28	RA	GSF	10	τῆς	της	της	ὁ	o(				TH=S	O(
+19	28	A1	GSF	13635	μεγάλης	μεγαλης	μεγαλης	μέγας	me/gaj			,	MEGA/LHS	ME/GAS
+19	29	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	29	VF	FAI3S	632961	ἀναστρέψει	ἀναστρεψει	αναστρεψει	ἀναστρέφω	a)nastre/fw				A)NASTRE/YEI	STRE/FW          A)NA
+19	29	RA	NPN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	29	N2N	NPN	18050	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	29	P		8	εἰς	εἰς	εις	εἰς	ei)j				EI)S	EI)S
+19	29	N	AS	5378	Ραμα	ραμα	ραμα	Ῥαμᾶ	R(ama=				*RAMA	*RAMA
+19	29	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	29	P		8	ἕως	ἑως	εως	ἕως	e(/wj				E(/WS	E(/WS
+19	29	N3I	GSF	13634	πόλεως	πολεως	πολεως	πόλις	po/lij				PO/LEWS	PO/LIS
+19	29	N3M	GSN	17730	ὀχυρώματος	ὀχυρωματος	οχυρωματος	ὀχύρωμα	o)xu/rwma				O)XURW/MATOS	O)XU/RWMA
+19	29	RA	GPM	10	τῶν	των	των	ὁ	o(				TW=N	O(
+19	29	N2	GPM	10050	Τυρίων	τυριων	τυριων	Τύριος	Tu/rioj			,	*TURI/WN	*TU/RIOS
+19	29	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	29	VF	FAI3S	632961	ἀναστρέψει	ἀναστρεψει	αναστρεψει	ἀναστρέφω	a)nastre/fw				A)NASTRE/YEI	STRE/FW          A)NA
+19	29	RA	NPN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	29	N2N	NPN	18050	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	29	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	29	N	AS	5378	Ωσα	ωσα	ωσα	Ωσα	Wsa			,	*WSA	*WSA
+19	29	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	29	VF	FMI3S	637057	ἔσται	ἐσται	εσται	εἰμί	ei)mi/				E)/STAI	EI)MI/
+19	29	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	29	N2	NSF	13442	διέξοδος	διεξοδος	διεξοδος	διέξοδος	die/codoj				DIE/CODOS	DIE/CODOS
+19	29	RD	GSM	11	αὐτοῦ	αὐτου	αυτου	αὐτός	au)to/j				AU)TOU=	AU)TO/S
+19	29	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	29	N1S	NSF	13442	θάλασσα	θαλασσα	θαλασσα	θάλασσα	qa/lassa				QA/LASSA	QA/LASSA
+19	29	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	29	P		8	ἀπὸ	ἀπο	απο	ἀπό	a)po/				A)PO\	A)PO/
+19	29	RA	GSN	10	τοῦ	του	του	ὁ	o(				TOU=	O(
+19	29	N3W	GSN	17730	σχοινίσματος	σχοινισματος	σχοινισματος	σχοίνισμα	sxoi/nisma				SXOINI/SMATOS	SXOI/NISMA
+19	29	N	NS	5250	Αχζιφ	αχζιφ	αχζιφ	Αχζιφ	Axzif				*AXZIF	*AXZIF
+19	30	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	30	N	NS	5250	Αμμα	αμμα	αμμα	Αμμα	Amma				*AMMA	*AMMA
+19	30	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	30	N	NS	5250	Αφεκ	αφεκ	αφεκ	Αφεκ	Afek				*AFEK	*AFEK
+19	30	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	30	N	NS	5250	Ραωβ	ραωβ	ραωβ	Ραωβ	Rawb			,	*RAWB	*RAWB
+19	30	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+19	30	M		7	εἴκοσι	εἰκοσι	εικοσι	εἴκοσι	ei)/kosi				EI)/KOSI	EI)/KOSI
+19	30	M		7	δύο	δυο	δυο	δύο	du/o			.	DU/O	DU/O
+19	31	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj				AU(/TH	OU(=TOS
+19	31	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	31	N1A	NSF	13442	κληρονομία	κληρονομια	κληρονομια	κληρονομία	klhronomi/a				KLHRONOMI/A	KLHRONOMI/A
+19	31	N1	GSF	13634	φυλῆς	φυλης	φυλης	φυλή	fulh/				FULH=S	FULH/
+19	31	N2	GPM	10050	υἱῶν	υἱων	υιων	υἱός	ui(o/j				UI(W=N	UI(O/S
+19	31	N	GSM	9538	Ασηρ	ασηρ	ασηρ	Ἀσήρ	A)sh/r				*ASHR	*ASHR
+19	31	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	31	N2	APM	9986	δήμους	δημους	δημους	δῆμος	dh=moj				DH/MOUS	DH=MOS
+19	31	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			,	AU)TW=N	AU)TO/S
+19	31	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+19	31	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	31	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	31	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+19	31	N1	NPF	13954	κῶμαι	κωμαι	κωμαι	κώμη	kw/mh				KW=MAI	KW/MH
+19	31	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j			.	AU)TW=N	AU)TO/S
+19	32	C		4	Καὶ	και	και	καί	kai/				KAI\	KAI/
+19	32	RA	DSM	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	32	N	DSM	9602	Νεφθαλι	νεφθαλι	νεφθαλι	Νεφθαλείμ	Nefqalei/m				*NEFQALI	*NEFQALI
+19	32	VBI	AAI3S	633473	ἐξῆλθεν	ἐξηλθεν	εξηλθεν	ἐξέρχομαι	e)ce/rxomai				E)CH=LQEN	E)/RXOMAI        E)K
+19	32	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	32	N2	NSM	9346	κλῆρος	κληρος	κληρος	κλῆρος	klh=roj				KLH=ROS	KLH=ROS
+19	32	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	32	A1	NSM	9347	ἕκτος	ἑκτος	εκτος	ἕκτος	e(/ktoj			.	E(/KTOS	E(/KTOS
+19	33	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	33	VBI	AMI3S	637569	ἐγένετο	ἐγενετο	εγενετο	γίνομαι	gi/nomai				E)GE/NETO	GI/GNOMAI
+19	33	RA	NPN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	33	N2N	NPN	18050	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	33	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	33	N	NS	5250	Μεελεφ	μεελεφ	μεελεφ	Μεελεφ	Meelef				*MEELEF	*MEELEF
+19	33	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	33	N	NS	5250	Μαηλων	μαηλων	μαηλων	Μαηλων	Mahlwn				*MAHLWN	*MAHLWN
+19	33	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	33	N	NS	5250	Βεσενανιμ	βεσενανιμ	βεσενανιμ	Βεσενανιμ	Besenanim				*BESENANIM	*BESENANIM
+19	33	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	33	N	NS	5250	Αρμαι	αρμαι	αρμαι	Αρμαι	Armai				*ARMAI	*ARMAI
+19	33	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	33	N	NS	5250	Νακεβ	νακεβ	νακεβ	Νακεβ	Nakeb				*NAKEB	*NAKEB
+19	33	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	33	N	NS	5250	Ιαβνηλ	ιαβνηλ	ιαβνηλ	Ιαβνηλ	Iabnhl				*IABNHL	*IABNHL
+19	33	P		8	ἕως	ἑως	εως	ἕως	e(/wj				E(/WS	E(/WS
+19	33	N2	GS	5442	Λακου	λακου	λακου	Λακος	Lakoj			,	*LAKOU	*LAKOS
+19	33	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	33	VCI	API3P	903809	ἐγενήθησαν	ἐγενηθησαν	εγενηθησαν	γίνομαι	gi/nomai				E)GENH/QHSAN	GI/GNOMAI
+19	33	RA	NPF	10	αἱ	αἱ	αι	ὁ	o(				AI(	O(
+19	33	N2	NPF	13954	διέξοδοι	διεξοδοι	διεξοδοι	διέξοδος	die/codoj				DIE/CODOI	DIE/CODOS
+19	33	RD	GSM	11	αὐτοῦ	αὐτου	αυτου	αὐτός	au)to/j				AU)TOU=	AU)TO/S
+19	33	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	33	N1M	NSM	9346	Ιορδάνης	ιορδανης	ιορδανης	Ἰορδάνης	I)orda/nhj			·	*IORDA/NHS	*I)ORDA/NHS
+19	34	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	34	VF	FAI3S	632961	ἐπιστρέψει	ἐπιστρεψει	επιστρεψει	ἐπιστρέφω	e)pistre/fw				E)PISTRE/YEI	STRE/FW          E)PI
+19	34	RA	APN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	34	N2N	APN	18178	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	34	P		8	ἐπὶ	ἐπι	επι	ἐπί	e)pi/				E)PI\	E)PI/
+19	34	N1S	ASF	13570	θάλασσαν	θαλασσαν	θαλασσαν	θάλασσα	qa/lassa				QA/LASSAN	QA/LASSA
+19	34	N	AS	5378	Αζανωθ	αζανωθ	αζανωθ	Αζανωθ	Azanwq				*AZANWQ	*AZANWQ
+19	34	N	AS	5378	Θαβωρ	θαβωρ	θαβωρ	Θαβωρ	Qabwr				*QABWR	*QABWR
+19	34	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	34	VF	FMI3S	637057	διελεύσεται	διελευσεται	διελευσεται	διέρχομαι	die/rxomai				DIELEU/SETAI	E)/RXOMAI        DIA
+19	34	D		9	ἐκεῖθεν	ἐκειθεν	εκειθεν	ἐκεῖθεν	e)kei=qen				E)KEI=QEN	E)KEI=QEN
+19	34	P		8	εἰς	εἰς	εις	εἰς	ei)j				EI)S	EI)S
+19	34	N	AS	5378	Ικωκ	ικωκ	ικωκ	Ικωκ	Ikwk				*IKWK	*IKWK
+19	34	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	34	VF	FAI3S	632961	συνάψει	συναψει	συναψει	συνάπτω	suna/ptw				SUNA/YEI	A(/PTW           SUN
+19	34	RA	DSM	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	34	N	DSM	9602	Ζαβουλων	ζαβουλων	ζαβουλων	Ζαβουλών	Zaboulw/n				*ZABOULWN	*ZABOULWN
+19	34	P		8	ἀπὸ	ἀπο	απο	ἀπό	a)po/				A)PO\	A)PO/
+19	34	N2	GSM	9538	νότου	νοτου	νοτου	νότος	no/toj				NO/TOU	NO/TOS
+19	34	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	34	RA	DSM	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	34	N	DSM	9602	Ασηρ	ασηρ	ασηρ	Ἀσήρ	A)sh/r				*ASHR	*ASHR
+19	34	VF	FAI3S	632961	συνάψει	συναψει	συναψει	συνάπτω	suna/ptw				SUNA/YEI	A(/PTW           SUN
+19	34	P		8	κατὰ	κατα	κατα	κατά	kata/				KATA\	KATA/
+19	34	N1S	ASF	13570	θάλασσαν	θαλασσαν	θαλασσαν	θάλασσα	qa/lassa			,	QA/LASSAN	QA/LASSA
+19	34	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	34	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	34	N1M	NSM	9346	Ιορδάνης	ιορδανης	ιορδανης	Ἰορδάνης	I)orda/nhj				*IORDA/NHS	*I)ORDA/NHS
+19	34	P		8	ἀπ	ἀπ	απ	ἀπό	a)po/				A)P'	A)PO/
+19	34	N1	GPF	14146	ἀνατολῶν	ἀνατολων	ανατολων	ἀνατολή	a)natolh/				A)NATOLW=N	A)NATOLH/
+19	34	N2	GSM	9538	ἡλίου	ἡλιου	ηλιου	ἥλιος	h(/lioj			.	H(LI/OU	H(/LIOS
+19	35	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	35	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+19	35	A3H	NPM	9859	τειχήρεις	τειχηρεις	τειχηρεις	τειχήρης	teixh/rhj				TEIXH/REIS	TEIXH/RHS
+19	35	RA	GPM	10	τῶν	των	των	ὁ	o(				TW=N	O(
+19	35	N2	GPM	10050	Τυρίων	τυριων	τυριων	Τύριος	Tu/rioj				*TURI/WN	*TU/RIOS
+19	35	N2	NSM	9346	Τύρος	τυρος	τυρος	Τύρος	Tu/roj				*TU/ROS	*TU/ROS
+19	35	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	35	N	NS	5250	Αμαθ	αμαθ	αμαθ	Αμαθ	Amaq				*AMAQ	*AMAQ
+19	35	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	35	N	NS	5250	Ρεκκαθ	ρεκκαθ	ρεκκαθ	Ρεκκαθ	Rekkaq				*REKKAQ	*REKKAQ
+19	35	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	35	N	NS	5250	Χενερεθ	χενερεθ	χενερεθ	Χενερεθ	Xenereq				*XENEREQ	*XENEREQ
+19	36	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	36	N	NS	5250	Αδαμι	αδαμι	αδαμι	Αδαμι	Adami				*ADAMI	*ADAMI
+19	36	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	36	N	NS	5250	Ραμα	ραμα	ραμα	Ῥαμᾶ	R(ama=				*RAMA	*RAMA
+19	36	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	36	N	NS	5250	Ασωρ	ασωρ	ασωρ	Ασωρ	Aswr				*ASWR	*ASWR
+19	37	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	37	N	NS	5250	Κεδες	κεδες	κεδες	Κεδες	Kedej				*KEDES	*KEDES
+19	37	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	37	N	NS	5250	Εδραι	εδραι	εδραι	Εδραϊ	Edrai:				*EDRAI+	*EDRAI+
+19	37	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	37	N1	NSF	13442	πηγὴ	πηγη	πηγη	πηγή	phgh/				PHGH\	PHGH/
+19	37	N	GS	5442	Ασορ	ασορ	ασορ	Ασορ	Asor				*ASOR	*ASOR
+19	38	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	38	N	NS	5250	Ιαριων	ιαριων	ιαριων	Ιαριων	Iariwn				*IARIWN	*IARIWN
+19	38	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	38	N	NS	5250	Μαγδαλιηλ	μαγδαλιηλ	μαγδαλιηλ	Μαγδαλιηλ	Magdalihl			,	*MAGDALIHL	*MAGDALIHL
+19	38	N	NS	5250	Ωραμ	ωραμ	ωραμ	Ωραμ	Wram				*WRAM	*WRAM
+19	38	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	38	N	NS	5250	Βαιθαναθ	βαιθαναθ	βαιθαναθ	Βαιθαναθ	Baiqanaq				*BAIQANAQ	*BAIQANAQ
+19	38	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	38	N	NS	5250	Θασμους	θασμους	θασμους	Θασμους	Qasmouj			,	*QASMOUS	*QASMOUS
+19	38	N3I	NPF	13954	πόλεις	πολεις	πολεις	πόλις	po/lij				PO/LEIS	PO/LIS
+19	38	M		7	δέκα	δεκα	δεκα	δέκα	de/ka				DE/KA	DE/KA
+19	38	M		7	ἐννέα	ἐννεα	εννεα	ἐννέα	e)nne/a			.	E)NNE/A	E)NNE/A
+19	39	RD	NSF	11	αὕτη	αὑτη	αυτη	οὗτος	ou(=toj				AU(/TH	OU(=TOS
+19	39	RA	NSF	10	ἡ	ἡ	η	ὁ	o(				H(	O(
+19	39	N1A	NSF	13442	κληρονομία	κληρονομια	κληρονομια	κληρονομία	klhronomi/a				KLHRONOMI/A	KLHRONOMI/A
+19	39	N1	GSF	13634	φυλῆς	φυλης	φυλης	φυλή	fulh/				FULH=S	FULH/
+19	39	N2	GPM	10050	υἱῶν	υἱων	υιων	υἱός	ui(o/j				UI(W=N	UI(O/S
+19	39	N	GSM	9538	Νεφθαλι	νεφθαλι	νεφθαλι	Νεφθαλείμ	Nefqalei/m			.	*NEFQALI	*NEFQALI
+19	40	C		4	Καὶ	και	και	καί	kai/				KAI\	KAI/
+19	40	RA	DSM	10	τῷ	τω	τω	ὁ	o(				TW=|	O(
+19	40	N	DSM	9602	Δαν	δαν	δαν	Δαν	Dan				*DAN	*DAN
+19	40	VBI	AAI3S	633473	ἐξῆλθεν	ἐξηλθεν	εξηλθεν	ἐξέρχομαι	e)ce/rxomai				E)CH=LQEN	E)/RXOMAI        E)K
+19	40	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	40	N2	NSM	9346	κλῆρος	κληρος	κληρος	κλῆρος	klh=roj				KLH=ROS	KLH=ROS
+19	40	RA	NSM	10	ὁ	ὁ	ο	ὁ	o(				O(	O(
+19	40	A1	NSM	9347	ἕβδομος	ἑβδομος	εβδομος	ἕβδομος	e(/bdomoj			.	E(/BDOMOS	E(/BDOMOS
+19	41	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	41	VCI	API3S	641665	ἐγενήθη	ἐγενηθη	εγενηθη	γίνομαι	gi/nomai				E)GENH/QH	GI/GNOMAI
+19	41	RA	NPN	10	τὰ	τα	τα	ὁ	o(				TA\	O(
+19	41	N2N	NPN	18050	ὅρια	ὁρια	ορια	ὅριον	o(/rion				O(/RIA	O(/RION
+19	41	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός	au)to/j				AU)TW=N	AU)TO/S
+19	41	N	NS	5250	Σαραα	σαραα	σαραα	Σαραα	Saraa				*SARAA	*SARAA
+19	41	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	41	N	NS	5250	Εσθαολ	εσθαολ	εσθαολ	Εσθαολ	Esqaol				*ESQAOL	*ESQAOL
+19	41	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	41	N3I	NSF	13442	πόλις	πολις	πολις	πόλις	po/lij				PO/LIS	PO/LIS
+19	41	N	GS	5442	Σαμες	σαμες	σαμες	Σαμες	Samej				*SAMES	*SAMES
+19	42	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	42	N	NS	5250	Σαλαβιν	σαλαβιν	σαλαβιν	Σαλαβιν	Salabin				*SALABIN	*SALABIN
+19	42	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	42	N	NS	5250	Ιααλων	ιααλων	ιααλων	Ιααλων	Iaalwn				*IAALWN	*IAALWN
+19	42	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	42	N	NS	5250	Ιεθλα	ιεθλα	ιεθλα	Ιεθλα	Ieqla				*IEQLA	*IEQLA
+19	43	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	43	N	NS	5250	Αιλων	αιλων	αιλων	Αιλων	Ailwn				*AILWN	*AILWN
+19	43	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	43	N	NS	5250	Θαμνα	θαμνα	θαμνα	Θαμνα	Qamna				*QAMNA	*QAMNA
+19	43	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	43	N	NS	5250	Ακκαρων	ακκαρων	ακκαρων	Ακκαρων	Akkarwn				*AKKARWN	*AKKARWN
+19	44	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	44	N	NS	5250	Ελθεκω	ελθεκω	ελθεκω	Ελθεκω	Elqekw				*ELQEKW	*ELQEKW
+19	44	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	44	N	NS	5250	Γαβαθων	γαβαθων	γαβαθων	Γαβαθων	Gabaqwn				*GABAQWN	*GABAQWN
+19	44	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	44	N	NS	5250	Βααλων	βααλων	βααλων	Βααλων	Baalwn				*BAALWN	*BAALWN
+19	45	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	45	N	NS	5250	Ιουθ	ιουθ	ιουθ	Ιουθ	Iouq				*IOUQ	*IOUQ
+19	45	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	45	N	NS	5250	Βανηβαρακ	βανηβαρακ	βανηβαρακ	Βανηβαρακ	Banhbarak				*BANHBARAK	*BANHBARAK
+19	45	C		4	καὶ	και	και	καί	kai/				KAI\	KAI/
+19	45	N	NS	5250	Γεθρεμμων	γεθρεμμων	γεθρεμμων	Γεθρεμμων	Geqremmwn			,	*GEQREMMWN	*GEQREMMWN

@@ -1,0 +1,63 @@
+; Field 1: short name, used in the files
+; Field 2: the common book name
+; Field 3: Alternative name – usually the standard LXX name (may not exist)
+; Field 5: File name (in Source directory)
+Gen	Genesis		01_Gen.txt	
+Exod	Exodus		02_Exod.txt	
+Lev	Leviticus		03_Lev.txt	
+Num	Numbers		04_Num.txt	
+Deut	Deuteronomy		05_Deut.txt	
+JoshB	Joshua (Codex Vaticanus)		06_JoshB.txt	
+JoshA	Joshua (Codex Alexandrinus)		07_JoshA.txt	
+JudgA	Judges (Codex Alexandrinus)		09_JudgesA.txt	
+JudgB	Judges (Codex Vaticanus)		08_JudgesB.txt	
+Ruth	Ruth		10_Ruth.txt	
+1Sam/K	1 Samuel	1 Kings	11_1Sam.txt	
+2Sam/K	2 Samuel	2 Kings	12_2Sam.txt	
+1/3Kgs	1 Kings	3 Kings	13_1Kings.txt	
+2/4Kgs	2 Kings	4 Kings	14_2Kings.txt	
+1Chr	1 Chronicles		15_1Chron.txt	
+2Chr	2 Chronicles		16_2Chron.txt	
+1Esdr	1 Esdras		17_1Esdras.txt	
+2Esdr	Ezra and Nehemiah	2 Esdras	18_2Esdras.txt	
+Esth	Esther		19_Esther.txt	
+Jdt	Judith		20_Judith.txt	
+TobBA	Tobit (Codices Vaticanus and Alexandrinus)		21_TobitBA.txt	
+TobS	Tobit (Codex Sinaiticus)		22_TobitS.txt	
+1Mac	1 Macabees		23_1Macc.txt	
+2Mac	2 Macabees		24_2Macc.txt	
+3Mac	3 Macabees		25_3Macc.txt	
+4Mac	4 Macabees		26_4Macc.txt	
+Ps	Psalms		27_Psalms.txt	
+Od	Odes		28_Odes.txt	
+Prov	Proverbs		29_Proverbs.txt	
+Qoh	Ecclesiastes	Qoheleth	30_Qoheleth.txt	
+Cant	Song of Songs	Canticles	31_Canticles.txt	
+Job	Job		32_Job.txt	
+Wis	Wisdom of Solomon		33_Wisdom.txt	
+Sir	Ecclesiasticus	Wisdom of Sirach	34_Sirach.txt	
+PsSol	Psalms of Solomon		35_PsSol.txt	
+Hos	Hosea		36_Hosea.txt	
+Mic	Micah		38_Amos.txt	
+Amos	Amos		37_Micah.txt	
+Joel	Joel		39_Joel.txt	
+Jonah	Jonah		41_Obadiah.txt	
+Obad	Obadiah		40_Jonah.txt	
+Nah	Nahum		42_Nahum.txt	
+Hab	Habakkuk		43_Habakkuk.txt	
+Zeph	Zephaniah		44_Zeph.txt	
+Hag	Haggai		45_Haggai.txt	
+Zech	Zechariah		46_Zech.txt	
+Mal	Malachi		47_Malachi.txt	
+Isa	Isaiah		48_Isaiah.txt	
+Jer	Jeremiah		49_Jer.txt	
+Bar	Baruch		50_Baruch.txt	
+EpJer	Epistle of Jeremiah		51_EpJer.txt	
+Lam	Lamentations		52_Lam.txt	
+Ezek	Ezekiel		53_Ezek.txt	
+Bel	Daniel	Bel and the Dragon (Old Greek)	54_BelOG.txt	
+BelTh	Daniel	Bel and the Dragon (Theodotion)	55_BelTh.txt	
+Dan	Daniel (Old Greek)		56_DanielOG.txt	
+DanTh	Daniel (Theodotion)		57_DanielTh.txt	
+Sus	Susanna (Old Greek)		58_SusOG.txt	
+SusTh	Susanna (Theodotion)		59_SusTh.txt	
